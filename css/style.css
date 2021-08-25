@@ -1,0 +1,37 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+.content-container {
+    border: 3px solid black; 
+    padding:20px; 
+    background-color: blue;
+    color: white;
+    z-index: 1;
+}
+
+
+
+.content-image{
+    width: 100px;
+    height: auto;
+}
+
+.about-button{
+    width: 50px;
+    height: auto;
+    color: blueviolet;
+    background-color:white;
+}
+
+#super-container {
+    border: 3 px solid red
+    padding 20 px;
+    display: flex;
+    flex-direction: row;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
